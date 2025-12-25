@@ -1,0 +1,228 @@
+Thời gian: 2025-12-07 15:16:03
+Username: 68460869-4707-4807-92dd-69d706b17f0c
+Password: Test123456@
+Họ tên: John A
+Email: 68460869-4707-4807-92dd-69d706b17f0c@example.com
+========================================
+Thời gian: 2025-12-07 15:18:37
+Username: 5bb42297-81e9-405e-98a4-ee920c59f5fa
+Password: Test123456@
+Họ tên: John A
+Email: 5bb42297-81e9-405e-98a4-ee920c59f5fa@example.com
+========================================
+Thời gian: 2025-12-08 10:29:40
+Username: ed1700c4-0a40-478f-b710-bb42b0d401d3
+Password: Test123456@
+Họ tên: John A
+Email: ed1700c4-0a40-478f-b710-bb42b0d401d3@example.com
+========================================
+Thời gian: 2025-12-09 10:14:17
+Username: 68d66eaa
+Password: Test123456@
+Họ tên: John A
+Email: 68d66eaa-62a7-4094-974d-bb5f2506f573@example.com
+========================================
+Thời gian: 2025-12-09 10:17:40
+Username: f99c2169
+Password: Test123456@
+Họ tên: John A
+Email: f99c2169-7099-46cb-9178-13fe0169672f@example.com
+========================================
+Thời gian: 2025-12-09 10:23:48
+Username: d412f56f
+Password: Test123456@
+Họ tên: dfffeaefafcc
+Email: d412f56f-feae-459f-9133-85a3f1cc7295@example.com
+========================================
+Thời gian: 2025-12-09 10:47:16
+Username: 6f743730
+Password: Test123456@
+Họ tên: ffaaaaddcb
+Email: 6f743730-84f9-40a8-a69a-a3d76dc22b06@example.com
+========================================
+Thời gian: 2025-12-10 11:25:33
+Username: 33ee4e5f
+Password: Test123456@
+Họ tên: eeefdbafbcbfd
+Email: 33ee4e5f-d842-465b-a1fb-cb124908f86d@example.com
+========================================
+Thời gian: 2025-12-10 11:26:55
+Username: 18db2f27
+Password: Test123456@
+Họ tên: dbfdffaade
+Email: 18db2f27-d24f-43f7-8685-11aa152d448e@example.com
+========================================
+Thời gian: 2025-12-11 14:40:17
+Username: ec4feb35
+Password: Test123456@
+Họ tên: ecfebbadbbfc
+Email: ec4feb35-b400-4179-9682-26ad62b8b9fc@example.com
+========================================
+Thời gian: 2025-12-11 14:42:03
+Username: 7c677108
+Password: Test123456@
+Họ tên: ccbecdd
+Email: 7c677108-1817-4c78-b864-8937ecd5741d@example.com
+========================================
+Thời gian: 2025-12-12 10:03:32
+Username: 1c144f4b
+Password: Test123456@
+Họ tên: cfbefdbbdadcad
+Email: 1c144f4b-e09f-4d5b-b4d1-2ad3c10a75d1@example.com
+========================================
+Thời gian: 2025-12-24 10:18:59
+Username: 2c89469e
+Password: Test123456@
+Họ tên: cefbabbfccd
+Email: 2c89469e-0858-47f5-b956-7ab4bfc605cd@example.com
+========================================
+Thời gian: 2025-12-24 10:38:33
+Username: 78ee1cb1
+Password: Test123456@
+Họ tên: eecbbcbdbbceee
+Email: 78ee1cb1-6b7c-46bd-8b1b-67c97505ee0e@example.com
+========================================
+Thời gian: 2025-12-24 11:04:36
+Username: 869c915d
+Password: Test123456@
+Họ tên: cdafeeafebbabc
+Email: 869c915d-a8f9-4ee7-afe3-6b52b81ab6c8@example.com
+========================================
+Thời gian: 2025-12-24 11:05:25
+Username: 3741b45f
+Password: Test123456@
+Họ tên: bfbdbbdffe
+Email: 3741b45f-b9d2-4308-bb32-83683d8f09fe@example.com
+========================================
+Thời gian: 2025-12-24 11:06:38
+Username: 97e5593d
+Password: Test123456@
+Họ tên: edbabdaa
+Email: 97e5593d-0334-4123-99ba-b240da7a7967@example.com
+========================================
+Thời gian: 2025-12-24 14:13:56
+Username: 13011af4
+Password: Test123456@
+Họ tên: affebfeb
+Email: 13011af4-43f6-40e2-b292-f91e3762b229@example.com
+========================================
+Thời gian: 2025-12-24 14:14:45
+Username: e3e79007
+Password: Test123456@
+Họ tên: eefecdef
+Email: e3e79007-9527-4f40-8381-e5c59d45e66f@example.com
+========================================
+Thời gian: 2025-12-24 14:16:15
+Username: 66cef440
+Password: Test123456@
+Họ tên: cefafdff
+Email: 66cef440-97af-4540-9d98-f4619839866f@example.com
+========================================
+Thời gian: 2025-12-24 14:22:22
+Username: 0bf99946
+Password: Test123456@
+Họ tên: bfeacaadaaebab
+Email: 0bf99946-765e-4a5c-a1ad-a226ae169bab@example.com
+========================================
+Thời gian: 2025-12-24 14:23:11
+Username: 53614d4e
+Password: Test123456@
+Họ tên: defecbdbb
+Email: 53614d4e-9334-4583-99fe-c9792bd8b4b5@example.com
+========================================
+Thời gian: 2025-12-24 14:23:59
+Username: 8b98f441
+Password: Test123456@
+Họ tên: bfdcabebbaad
+Email: 8b98f441-6655-4dc1-abe4-b0ba50a87d91@example.com
+========================================
+Thời gian: 2025-12-25 13:54:05
+Username: e805f969
+Password: Test123456@
+Họ tên: efffdeaaeef
+Email: e805f969-ffde-4123-aa10-5014e9e1f505@example.com
+========================================
+Thời gian: 2025-12-25 13:55:13
+Username: 981112ce
+Password: Test123456@
+Họ tên: cebfaafad
+Email: 981112ce-21b6-4fa1-a06f-798988ad3921@example.com
+========================================
+Thời gian: 2025-12-25 14:02:17
+Username: a8e955ea
+Password: Test123456@
+Họ tên: aeeaeefcfdeaccce
+Email: a8e955ea-eefc-4fde-94a0-6c6cc94606e2@example.com
+========================================
+Thời gian: 2025-12-25 14:05:40
+Username: a9076d04
+Password: Test123456@
+Họ tên: adafbefbd
+Email: a9076d04-2371-44af-b980-700e8fb9000d@example.com
+========================================
+Thời gian: 2025-12-25 14:09:20
+Username: 09f7ca1d
+Password: Test123456@
+Họ tên: fcadbfcfdbdffd
+Email: 09f7ca1d-64b2-4f60-9c2f-7d7b730d2ffd@example.com
+========================================
+Thời gian: 2025-12-25 14:11:18
+Username: 7607d186
+Password: Test123456@
+Họ tên: dbddecb
+Email: 7607d186-3b1d-48d5-8035-617e4313c7b8@example.com
+========================================
+Thời gian: 2025-12-25 14:13:19
+Username: fc2d27d7
+Password: Test123456@
+Họ tên: fcddddaafeecea
+Email: fc2d27d7-1099-4dda-afe6-e7c221e9a972@example.com
+========================================
+Thời gian: 2025-12-25 14:14:05
+Username: 5c3b8c89
+Password: Test123456@
+Họ tên: cbcafddfff
+Email: 5c3b8c89-289a-4186-8f0d-d9826f7ff809@example.com
+========================================
+Thời gian: 2025-12-25 14:16:11
+Username: 68f34a1e
+Password: Test123456@
+Họ tên: faecafaabdecd
+Email: 68f34a1e-70c0-4159-a94f-3224aabdec3d@example.com
+========================================
+Thời gian: 2025-12-25 14:20:51
+Username: 88544329
+Password: Test123456@
+Họ tên: bfcbbcefccdf
+Email: 88544329-bf27-4c75-bbc2-efccd8775f14@example.com
+========================================
+Thời gian: 2025-12-25 14:21:53
+Username: 39ad68ca
+Password: Test123456@
+Họ tên: adcaaedddafd
+Email: 39ad68ca-a734-470e-85dd-9d5a6354fd85@example.com
+========================================
+Thời gian: 2025-12-25 14:24:51
+Username: 66d5c580
+Password: Test123456@
+Họ tên: dccadebad
+Email: 66d5c580-1c24-479a-83d1-7eb20ad96129@example.com
+========================================
+Thời gian: 2025-12-25 14:26:59
+Username: 24f7e0de
+Password: Test123456@
+Họ tên: fedefdeadcaa
+Email: 24f7e0de-0f85-41de-ad08-90ca3227a096@example.com
+========================================
+Thời gian: 2025-12-25 14:31:04
+Username: e7567ba2
+Password: Test123456@
+Họ tên: ebabec
+Email: e7567ba2-0019-4278-b155-6ec327407384@example.com
+========================================
+Thời gian: 2025-12-25 14:32:53
+Username: 02206ab7
+Password: Test123456@
+Họ tên: abcddeaafdaf
+Email: 02206ab7-7c2d-46d5-94e8-a9a83f81d0af@example.com
+========================================
